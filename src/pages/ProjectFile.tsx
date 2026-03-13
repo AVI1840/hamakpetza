@@ -250,7 +250,7 @@ export default function ProjectFile() {
         <div className="grid grid-cols-2 md:grid-cols-4 gap-4 -mt-4">
           <StatCard value="700K" label="נשים בסיכון להחלפה עקב AI" sub="מקצועות אדמיניסטרציה ושירות" color="red" icon={Users} />
           <StatCard value="60-70%" label="זמן עו״ס מבוזבז על בירוקרטיה" sub="במקום טיפול ישיר" color="orange" icon={Clock} />
-          <StatCard value="54%" label="תעסוקת גברים חרדים — קפוא" sub="בשכר נמוך מהממוצע" color="purple" icon={BarChart3} />
+          <StatCard value="54%" label="שיעור תעסוקת גברים חרדים — קפוא על 54%" sub="בשכר נמוך מהממוצע" color="purple" icon={BarChart3} />
           <StatCard value="10M ₪" label="תקציב פיילוט — 430 משתתפים" sub="12 חודשי הרצה" color="green" icon={TrendingUp} />
         </div>
 
