@@ -77,6 +77,7 @@ const Index = () => {
       {/* Footer */}
       <footer className="bg-primary text-primary-foreground/80 text-sm py-4 text-center">
         <p>אביעד יצחקי, מינהל גמלאות | ביטוח לאומי | v1.0 | מרץ 2026</p>
+        <p className="text-xs opacity-50 mt-1">עדכון אחרון: 24.03.2026</p>
       </footer>
 
       <FeedbackModal />
